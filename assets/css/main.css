@@ -1,0 +1,8 @@
+#index-content {
+  background-image: url('../images/backgroundLogin.jpg');
+  opacity: 0.9;
+}
+
+#index-content header h1, #index-content header h2 {
+  color: #FFFFFF;
+}
